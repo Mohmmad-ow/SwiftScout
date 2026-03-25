@@ -25,4 +25,5 @@ A distributed system that processes resumes, analyzes candidates using AI, and r
 - Asynchronous job processing
 - Redis-based rate limiting
 - AI-powered candidate ranking
+- Audits for both AI servies to keep track of User actions kept in the Database
 - Theme/Language Switching in the Frontend
