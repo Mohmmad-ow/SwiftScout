@@ -3,7 +3,8 @@
 A distributed system that processes resumes, analyzes candidates using AI, and ranks them based on job fit.
 
 ## Architecture
-[Diagram Image]
+
+<img width="690" height="697" alt="Architecture Image" src="https://github.com/user-attachments/assets/b38f0d52-c065-4606-ad9e-4715fdc5eb2e" />
 
 ## Services
 - Backend API (Go): handles orchestration and routing
@@ -18,7 +19,8 @@ A distributed system that processes resumes, analyzes candidates using AI, and r
 - AI Service: [link](https://github.com/Mohmmad-ow/interview-analysis-service) _switch brances for Document/Interview Processing_
 
 ## Demo
-[Video Link]
+
+https://github.com/user-attachments/assets/20750c9a-ca41-4a21-8f1b-396a02b7cde8
 
 ## Key Features
 - Microservices-based architecture
